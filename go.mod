@@ -9,5 +9,5 @@ require (
 	go.uber.org/multierr v1.9.0 // indirect
 	go.uber.org/zap v1.24.0
 	golang.org/x/crypto v0.6.0 // indirect
-	golang.org/x/text v0.7.0
+	golang.org/x/text v0.8.0
 )
